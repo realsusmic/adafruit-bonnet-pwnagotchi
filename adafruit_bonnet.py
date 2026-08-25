@@ -1,6 +1,7 @@
 # hi
 # susmic here
-# if you are wondering why we bypassed the circutpython display driver, it's because normally there would be a 8px artifact at the top, but this way we bypass it
+# if you are wondering why we bypassed the circutpython display driver, it's because normally there would be a 8px 
+# artifact at the top, but this way we bypass it
 # txx
 
 import logging
