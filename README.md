@@ -267,6 +267,5 @@ For Jayofelony, check using its Python environment instead:
 
 ## Done
 
-After Pwnagotchi restarts, the Adafruit Bonnet should initialize using the custom `GDEY0213B74Fixed` SSD1680Z implementation instead of the normal CircuitPython display path.
+after it restarts and does it's thing, the eink should shiow the pwnagotchi ui
 
-This bypasses the incorrect RAM/source mapping that can cause the strip/artifact at the top of newer GDEY0213B74 panels.
